@@ -717,3 +717,7 @@ img {
   pointer-events: none;
   transform: scale(0);
 }
+
+body.modal-open {
+  overflow: hidden;
+}
